@@ -1,0 +1,1852 @@
+{
+  "model": {
+    "envelope": {
+      "depthMm": 400,
+      "depthWithFrontsMm": 400,
+      "heightMm": 720,
+      "widthMm": 600
+    },
+    "hardware": [
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:L",
+          "top"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:L",
+          "bottom"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:R",
+          "top"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:R",
+          "bottom"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "back:nail",
+        "kind": "nail",
+        "labelParams": {
+          "label": "Panel pin 1.6 × 25"
+        },
+        "partIds": [
+          "back"
+        ],
+        "profileKey": null,
+        "quantity": 30,
+        "unit": "pcs"
+      }
+    ],
+    "holes": [
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#1",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#2",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 145.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#3",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 251.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#4",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 357
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#5",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#6",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 145.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#7",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 251.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#8",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 357
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#1",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#2",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 145.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#3",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 251.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#4",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 357
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#5",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#6",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 145.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#7",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 251.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#8",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 711,
+        "vMm": 357
+      }
+    ],
+    "issues": [],
+    "joints": [
+      {
+        "count": 4,
+        "facePartId": "side:L",
+        "id": "joint:side:L:top",
+        "kind": "screw-butt",
+        "otherPartId": "top",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 4,
+        "facePartId": "side:L",
+        "id": "joint:side:L:bottom",
+        "kind": "screw-butt",
+        "otherPartId": "bottom",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 4,
+        "facePartId": "side:R",
+        "id": "joint:side:R:top",
+        "kind": "screw-butt",
+        "otherPartId": "top",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 4,
+        "facePartId": "side:R",
+        "id": "joint:side:R:bottom",
+        "kind": "screw-butt",
+        "otherPartId": "bottom",
+        "screw": "carcassScrew"
+      }
+    ],
+    "layout": {
+      "columns": [
+        {
+          "id": "id-2",
+          "index": 0,
+          "sections": [
+            {
+              "columnId": "id-2",
+              "heightMm": 684,
+              "id": "id-3",
+              "index": 0,
+              "y0": 18,
+              "y1": 702
+            }
+          ],
+          "widthMm": 564,
+          "x0": 18,
+          "x1": 582
+        }
+      ],
+      "dims": {
+        "D": 400,
+        "Dc": 397,
+        "H": 720,
+        "Hc": 720,
+        "Hi": 684,
+        "W": 600,
+        "Wi": 564,
+        "hP": 0,
+        "t": 18,
+        "tB": 3,
+        "tF": 18,
+        "tFr": 18,
+        "tP": 18,
+        "tb": 15,
+        "tbt": 9
+      }
+    },
+    "marks": [
+      {
+        "face": "B",
+        "id": "back#back-nail#1",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 48
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#2",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 132
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#3",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 216
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#4",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 300
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#5",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 384
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#6",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 468
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#7",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 552
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#8",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 30,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#9",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 30,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#10",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 124.3,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#11",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 124.3,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#12",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 218.6,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#13",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 218.6,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#14",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 312.9,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#15",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 312.9,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#16",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 407.1,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#17",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 407.1,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#18",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 501.4,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#19",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 501.4,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#20",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 595.7,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#21",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 595.7,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#22",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 690,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#23",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 690,
+        "vMm": 591
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#24",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 48
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#25",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 132
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#26",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 216
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#27",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 300
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#28",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 384
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#29",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 468
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#30",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 711,
+        "vMm": 552
+      }
+    ],
+    "parts": [
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            18,
+            720,
+            400
+          ],
+          "min": [
+            0,
+            0,
+            3
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "z",
+          "w": "x"
+        },
+        "id": "side:L",
+        "lengthMm": 720,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "side-left",
+        "thicknessMm": 18,
+        "widthMm": 397
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            600,
+            720,
+            400
+          ],
+          "min": [
+            582,
+            0,
+            3
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "z",
+          "w": "x"
+        },
+        "id": "side:R",
+        "lengthMm": 720,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "side-right",
+        "thicknessMm": 18,
+        "widthMm": 397
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            582,
+            720,
+            400
+          ],
+          "min": [
+            18,
+            702,
+            3
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "z",
+          "w": "y"
+        },
+        "id": "top",
+        "lengthMm": 564,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "top",
+        "thicknessMm": 18,
+        "widthMm": 397
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            582,
+            18,
+            400
+          ],
+          "min": [
+            18,
+            0,
+            3
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "z",
+          "w": "y"
+        },
+        "id": "bottom",
+        "lengthMm": 564,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "bottom",
+        "thicknessMm": 18,
+        "widthMm": 397
+      },
+      {
+        "bandedEdges": [],
+        "box": {
+          "max": [
+            600,
+            720,
+            3
+          ],
+          "min": [
+            0,
+            0,
+            0
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "x",
+          "w": "z"
+        },
+        "id": "back",
+        "lengthMm": 720,
+        "materialId": "mat-hdf-3",
+        "ownerId": "back",
+        "role": "back",
+        "thicknessMm": 3,
+        "widthMm": 600
+      }
+    ],
+    "rails": []
+  },
+  "outputs": {
+    "cutList": [
+      {
+        "materialId": "mat-ply-18",
+        "rows": [
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 720,
+              "widthMm": 397
+            },
+            "finished": {
+              "lengthMm": 720,
+              "thicknessMm": 18,
+              "widthMm": 397
+            },
+            "grain": "length",
+            "partIds": [
+              "side:L"
+            ],
+            "position": 1,
+            "quantity": 1,
+            "role": "side-left"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 720,
+              "widthMm": 397
+            },
+            "finished": {
+              "lengthMm": 720,
+              "thicknessMm": 18,
+              "widthMm": 397
+            },
+            "grain": "length",
+            "partIds": [
+              "side:R"
+            ],
+            "position": 2,
+            "quantity": 1,
+            "role": "side-right"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 564,
+              "widthMm": 397
+            },
+            "finished": {
+              "lengthMm": 564,
+              "thicknessMm": 18,
+              "widthMm": 397
+            },
+            "grain": "length",
+            "partIds": [
+              "top"
+            ],
+            "position": 3,
+            "quantity": 1,
+            "role": "top"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 564,
+              "widthMm": 397
+            },
+            "finished": {
+              "lengthMm": 564,
+              "thicknessMm": 18,
+              "widthMm": 397
+            },
+            "grain": "length",
+            "partIds": [
+              "bottom"
+            ],
+            "position": 4,
+            "quantity": 1,
+            "role": "bottom"
+          }
+        ]
+      },
+      {
+        "materialId": "mat-hdf-3",
+        "rows": [
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 0
+            },
+            "cut": {
+              "lengthMm": 720,
+              "widthMm": 600
+            },
+            "finished": {
+              "lengthMm": 720,
+              "thicknessMm": 3,
+              "widthMm": 600
+            },
+            "grain": "none",
+            "partIds": [
+              "back"
+            ],
+            "position": 5,
+            "quantity": 1,
+            "role": "back"
+          }
+        ]
+      }
+    ],
+    "cuttingLayouts": [
+      {
+        "boardAreaM2": 3.1,
+        "grain": true,
+        "kerfMm": 3,
+        "materialId": "mat-ply-18",
+        "sheets": [
+          {
+            "index": 1,
+            "lengthMm": 2500,
+            "placements": [
+              {
+                "acrossMm": 397,
+                "alongMm": 720,
+                "partId": "side:L",
+                "position": 1,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 5
+              },
+              {
+                "acrossMm": 397,
+                "alongMm": 720,
+                "partId": "side:R",
+                "position": 2,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 405
+              },
+              {
+                "acrossMm": 397,
+                "alongMm": 564,
+                "partId": "top",
+                "position": 3,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 805
+              },
+              {
+                "acrossMm": 397,
+                "alongMm": 564,
+                "partId": "bottom",
+                "position": 4,
+                "rotated": false,
+                "xMm": 728,
+                "yMm": 5
+              }
+            ],
+            "usedMm2": 1019496,
+            "widthMm": 1250
+          }
+        ],
+        "sizes": [
+          {
+            "count": 1,
+            "lengthMm": 2500,
+            "widthMm": 1250
+          }
+        ],
+        "trimMm": 5,
+        "unplaced": [],
+        "utilisation": 0.3
+      },
+      {
+        "boardAreaM2": 5.8,
+        "grain": false,
+        "kerfMm": 3,
+        "materialId": "mat-hdf-3",
+        "sheets": [
+          {
+            "index": 1,
+            "lengthMm": 2800,
+            "placements": [
+              {
+                "acrossMm": 720,
+                "alongMm": 600,
+                "partId": "back",
+                "position": 5,
+                "rotated": true,
+                "xMm": 5,
+                "yMm": 5
+              }
+            ],
+            "usedMm2": 432000,
+            "widthMm": 2070
+          }
+        ],
+        "sizes": [
+          {
+            "count": 1,
+            "lengthMm": 2800,
+            "widthMm": 2070
+          }
+        ],
+        "trimMm": 5,
+        "unplaced": [],
+        "utilisation": 0.1
+      }
+    ],
+    "drillingPlans": [
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "back",
+              "v1": "front"
+            },
+            "face": "B",
+            "holes": [
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H1",
+                "xMm": 9,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H2",
+                "xMm": 9,
+                "yMm": 145.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H3",
+                "xMm": 9,
+                "yMm": 251.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H4",
+                "xMm": 9,
+                "yMm": 357
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H5",
+                "xMm": 711,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H6",
+                "xMm": 711,
+                "yMm": 145.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H7",
+                "xMm": 711,
+                "yMm": 251.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H8",
+                "xMm": 711,
+                "yMm": 357
+              }
+            ],
+            "marks": [],
+            "semantic": "outer"
+          }
+        ],
+        "lengthMm": 720,
+        "position": 1,
+        "quantity": 1,
+        "role": "side-left",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [],
+        "widthMm": 397
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "back",
+              "v1": "front"
+            },
+            "face": "A",
+            "holes": [
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H1",
+                "xMm": 9,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H2",
+                "xMm": 9,
+                "yMm": 145.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H3",
+                "xMm": 9,
+                "yMm": 251.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H4",
+                "xMm": 9,
+                "yMm": 357
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H5",
+                "xMm": 711,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H6",
+                "xMm": 711,
+                "yMm": 145.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H7",
+                "xMm": 711,
+                "yMm": 251.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H8",
+                "xMm": 711,
+                "yMm": 357
+              }
+            ],
+            "marks": [],
+            "semantic": "outer"
+          }
+        ],
+        "lengthMm": 720,
+        "position": 2,
+        "quantity": 1,
+        "role": "side-right",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [],
+        "widthMm": 397
+      },
+      {
+        "bandedEdges": [],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "left",
+              "v1": "right"
+            },
+            "face": "B",
+            "holes": [],
+            "marks": [
+              {
+                "purpose": "back-nail",
+                "ref": "M1",
+                "xMm": 9,
+                "yMm": 48
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M2",
+                "xMm": 9,
+                "yMm": 132
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M3",
+                "xMm": 9,
+                "yMm": 216
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M4",
+                "xMm": 9,
+                "yMm": 300
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M5",
+                "xMm": 9,
+                "yMm": 384
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M6",
+                "xMm": 9,
+                "yMm": 468
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M7",
+                "xMm": 9,
+                "yMm": 552
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M8",
+                "xMm": 30,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M9",
+                "xMm": 30,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M10",
+                "xMm": 124.3,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M11",
+                "xMm": 124.3,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M12",
+                "xMm": 218.6,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M13",
+                "xMm": 218.6,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M14",
+                "xMm": 312.9,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M15",
+                "xMm": 312.9,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M16",
+                "xMm": 407.1,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M17",
+                "xMm": 407.1,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M18",
+                "xMm": 501.4,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M19",
+                "xMm": 501.4,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M20",
+                "xMm": 595.7,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M21",
+                "xMm": 595.7,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M22",
+                "xMm": 690,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M23",
+                "xMm": 690,
+                "yMm": 591
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M24",
+                "xMm": 711,
+                "yMm": 48
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M25",
+                "xMm": 711,
+                "yMm": 132
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M26",
+                "xMm": 711,
+                "yMm": 216
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M27",
+                "xMm": 711,
+                "yMm": 300
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M28",
+                "xMm": 711,
+                "yMm": 384
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M29",
+                "xMm": 711,
+                "yMm": 468
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M30",
+                "xMm": 711,
+                "yMm": 552
+              }
+            ],
+            "semantic": "rear-face"
+          }
+        ],
+        "lengthMm": 720,
+        "position": 5,
+        "quantity": 1,
+        "role": "back",
+        "thicknessMm": 3,
+        "unverifiedProfiles": [],
+        "widthMm": 600
+      }
+    ],
+    "hardware": [
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "label": {
+          "key": "hardware.screw",
+          "params": {
+            "label": "Countersunk wood screw 4.0 × 50"
+          }
+        },
+        "positions": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "profileKey": null,
+        "quantity": 18,
+        "spareIncluded": 2,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "back:nail",
+        "kind": "nail",
+        "label": {
+          "key": "hardware.nail",
+          "params": {
+            "label": "Panel pin 1.6 × 25"
+          }
+        },
+        "positions": [
+          5
+        ],
+        "profileKey": null,
+        "quantity": 33,
+        "spareIncluded": 3,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "edge-band:mat-ply-18",
+        "kind": "edge-band",
+        "label": {
+          "key": "hardware.edge-band",
+          "params": {
+            "material": "Birch plywood 18 mm",
+            "thicknessMm": 0.5
+          }
+        },
+        "positions": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "profileKey": null,
+        "quantity": 2.9,
+        "spareIncluded": 0,
+        "unit": "m",
+        "verified": null
+      },
+      {
+        "key": "glue",
+        "kind": "glue",
+        "label": {
+          "key": "hardware.glue",
+          "params": {
+            "joints": 4
+          }
+        },
+        "positions": [],
+        "profileKey": null,
+        "quantity": 4,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": null
+      }
+    ],
+    "positions": [
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 720,
+          "widthMm": 397
+        },
+        "finished": {
+          "lengthMm": 720,
+          "thicknessMm": 18,
+          "widthMm": 397
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "side:L"
+        ],
+        "position": 1,
+        "quantity": 1,
+        "role": "side-left"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 720,
+          "widthMm": 397
+        },
+        "finished": {
+          "lengthMm": 720,
+          "thicknessMm": 18,
+          "widthMm": 397
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "side:R"
+        ],
+        "position": 2,
+        "quantity": 1,
+        "role": "side-right"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 564,
+          "widthMm": 397
+        },
+        "finished": {
+          "lengthMm": 564,
+          "thicknessMm": 18,
+          "widthMm": 397
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "top"
+        ],
+        "position": 3,
+        "quantity": 1,
+        "role": "top"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 564,
+          "widthMm": 397
+        },
+        "finished": {
+          "lengthMm": 564,
+          "thicknessMm": 18,
+          "widthMm": 397
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "bottom"
+        ],
+        "position": 4,
+        "quantity": 1,
+        "role": "bottom"
+      },
+      {
+        "bandedEdges": [],
+        "cut": {
+          "lengthMm": 720,
+          "widthMm": 600
+        },
+        "finished": {
+          "lengthMm": 720,
+          "thicknessMm": 3,
+          "widthMm": 600
+        },
+        "materialId": "mat-hdf-3",
+        "partIds": [
+          "back"
+        ],
+        "position": 5,
+        "quantity": 1,
+        "role": "back"
+      }
+    ],
+    "steps": [
+      {
+        "body": [
+          {
+            "key": "step.cut.body",
+            "params": {
+              "count": 5
+            }
+          },
+          {
+            "key": "step.cut.edgeBand"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "edge-band:mat-ply-18",
+            "quantity": 2.9
+          }
+        ],
+        "highlightPartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "back"
+        ],
+        "index": 1,
+        "newPartIds": [],
+        "orientation": "flat",
+        "phase": "P0",
+        "safety": [
+          {
+            "key": "safety.sawing"
+          }
+        ],
+        "title": {
+          "key": "step.cut.title"
+        },
+        "tools": [
+          "tape-measure",
+          "square",
+          "pencil",
+          "saw",
+          "edge-banding-iron",
+          "edge-trimmer"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "back"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.drill.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [],
+        "highlightPartIds": [
+          "side:L",
+          "side:R",
+          "back"
+        ],
+        "index": 2,
+        "newPartIds": [],
+        "orientation": "flat",
+        "phase": "P0",
+        "safety": [
+          {
+            "key": "safety.drilling"
+          }
+        ],
+        "title": {
+          "key": "step.drill.title"
+        },
+        "tools": [
+          "tape-measure",
+          "square",
+          "pencil",
+          "drill-driver",
+          "drill-bit:4.5",
+          "countersink-bit"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "back"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.sideLeft.body"
+          },
+          {
+            "key": "step.pilot.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "screw:carcassScrew",
+            "quantity": 8
+          },
+          {
+            "key": "glue",
+            "quantity": 2
+          }
+        ],
+        "highlightPartIds": [
+          "side:L",
+          "top",
+          "bottom"
+        ],
+        "index": 3,
+        "newPartIds": [
+          "side:L",
+          "top",
+          "bottom"
+        ],
+        "orientation": "on-back",
+        "phase": "P4",
+        "safety": [],
+        "title": {
+          "key": "step.sideLeft.title"
+        },
+        "tools": [
+          "square",
+          "clamps",
+          "drill-driver",
+          "driver-bits",
+          "drill-bit:2.5"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.sideRight.body"
+          },
+          {
+            "key": "step.pilot.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "screw:carcassScrew",
+            "quantity": 8
+          },
+          {
+            "key": "glue",
+            "quantity": 2
+          }
+        ],
+        "highlightPartIds": [
+          "side:R"
+        ],
+        "index": 4,
+        "newPartIds": [
+          "side:R"
+        ],
+        "orientation": "on-back",
+        "phase": "P4",
+        "safety": [],
+        "title": {
+          "key": "step.sideRight.title"
+        },
+        "tools": [
+          "square",
+          "clamps",
+          "drill-driver",
+          "driver-bits",
+          "drill-bit:2.5"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.back.square",
+            "params": {
+              "toleranceMm": 2
+            }
+          },
+          {
+            "key": "step.back.nails"
+          },
+          {
+            "key": "step.standUp.body"
+          }
+        ],
+        "camera": "iso-back",
+        "hardware": [
+          {
+            "key": "back:nail",
+            "quantity": 30
+          }
+        ],
+        "highlightPartIds": [
+          "back"
+        ],
+        "index": 5,
+        "newPartIds": [
+          "back"
+        ],
+        "orientation": "flat",
+        "phase": "P5",
+        "safety": [],
+        "title": {
+          "key": "step.back.title"
+        },
+        "tools": [
+          "tape-measure",
+          "square",
+          "hammer"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.finish.check"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [],
+        "highlightPartIds": [],
+        "index": 6,
+        "newPartIds": [],
+        "orientation": "upright",
+        "phase": "P12",
+        "safety": [],
+        "title": {
+          "key": "step.finish.title"
+        },
+        "tools": [
+          "tape-measure"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back"
+        ]
+      }
+    ],
+    "tools": [
+      "tape-measure",
+      "square",
+      "pencil",
+      "clamps",
+      "saw",
+      "drill-driver",
+      "driver-bits",
+      "drill-bit:2.5",
+      "drill-bit:4.5",
+      "countersink-bit",
+      "edge-banding-iron",
+      "edge-trimmer",
+      "hammer",
+      "safety-glasses",
+      "hearing-protection",
+      "dust-mask"
+    ]
+  }
+}

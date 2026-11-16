@@ -1,0 +1,5976 @@
+{
+  "model": {
+    "envelope": {
+      "depthMm": 450,
+      "depthWithFrontsMm": 468,
+      "heightMm": 900,
+      "widthMm": 800
+    },
+    "hardware": [
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:L",
+          "top"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:L",
+          "bottom"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:R",
+          "top"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 50"
+        },
+        "partIds": [
+          "side:R",
+          "bottom"
+        ],
+        "profileKey": null,
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:plinthScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 40"
+        },
+        "partIds": [
+          "plinth:L",
+          "plinth:F"
+        ],
+        "profileKey": null,
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:plinthScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 40"
+        },
+        "partIds": [
+          "plinth:L",
+          "plinth:B"
+        ],
+        "profileKey": null,
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:plinthScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 40"
+        },
+        "partIds": [
+          "plinth:R",
+          "plinth:F"
+        ],
+        "profileKey": null,
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:plinthScrew",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk wood screw 4.0 × 40"
+        },
+        "partIds": [
+          "plinth:R",
+          "plinth:B"
+        ],
+        "profileKey": null,
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "plinth-bracket",
+        "kind": "plinth-bracket",
+        "labelParams": {
+          "label": "Steel angle bracket 40 × 40"
+        },
+        "partIds": [
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B"
+        ],
+        "profileKey": null,
+        "quantity": 8,
+        "unit": "pcs"
+      },
+      {
+        "key": "screw:plinthBracket",
+        "kind": "screw",
+        "labelParams": {
+          "label": "Countersunk screw 3.5 × 16"
+        },
+        "partIds": [
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "bottom"
+        ],
+        "profileKey": null,
+        "quantity": 32,
+        "unit": "pcs"
+      },
+      {
+        "key": "back:nail",
+        "kind": "nail",
+        "labelParams": {
+          "label": "Panel pin 1.6 × 25"
+        },
+        "partIds": [
+          "back"
+        ],
+        "profileKey": null,
+        "quantity": 36,
+        "unit": "pcs"
+      },
+      {
+        "key": "hinge:full",
+        "kind": "hinge",
+        "labelParams": {
+          "name": "Concealed cup hinge 35 mm (generic)",
+          "variant": "full"
+        },
+        "partIds": [
+          "door:id-3:L",
+          "side:L"
+        ],
+        "profileKey": "hinge",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "hinge-plate",
+        "kind": "hinge-plate",
+        "labelParams": {
+          "name": "Concealed cup hinge 35 mm (generic)"
+        },
+        "partIds": [
+          "door:id-3:L",
+          "side:L"
+        ],
+        "profileKey": "hinge",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "hinge-screw",
+        "kind": "screw",
+        "labelParams": {
+          "label": "3.5 × 16 chipboard screw"
+        },
+        "partIds": [
+          "door:id-3:L",
+          "side:L"
+        ],
+        "profileKey": null,
+        "quantity": 8,
+        "unit": "pcs"
+      },
+      {
+        "key": "hinge:full",
+        "kind": "hinge",
+        "labelParams": {
+          "name": "Concealed cup hinge 35 mm (generic)",
+          "variant": "full"
+        },
+        "partIds": [
+          "door:id-3:R",
+          "side:R"
+        ],
+        "profileKey": "hinge",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "hinge-plate",
+        "kind": "hinge-plate",
+        "labelParams": {
+          "name": "Concealed cup hinge 35 mm (generic)"
+        },
+        "partIds": [
+          "door:id-3:R",
+          "side:R"
+        ],
+        "profileKey": "hinge",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "hinge-screw",
+        "kind": "screw",
+        "labelParams": {
+          "label": "3.5 × 16 chipboard screw"
+        },
+        "partIds": [
+          "door:id-3:R",
+          "side:R"
+        ],
+        "profileKey": null,
+        "quantity": 8,
+        "unit": "pcs"
+      },
+      {
+        "key": "handle:h-bar-128",
+        "kind": "handle",
+        "labelParams": {
+          "name": "Bar handle 128 mm"
+        },
+        "partIds": [
+          "door:id-3:L"
+        ],
+        "profileKey": "handle:h-bar-128",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "key": "handle-screw:30",
+        "kind": "screw",
+        "labelParams": {
+          "label": "M4 × 30"
+        },
+        "partIds": [
+          "door:id-3:L"
+        ],
+        "profileKey": null,
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "handle:h-bar-128",
+        "kind": "handle",
+        "labelParams": {
+          "name": "Bar handle 128 mm"
+        },
+        "partIds": [
+          "door:id-3:R"
+        ],
+        "profileKey": "handle:h-bar-128",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "key": "handle-screw:30",
+        "kind": "screw",
+        "labelParams": {
+          "label": "M4 × 30"
+        },
+        "partIds": [
+          "door:id-3:R"
+        ],
+        "profileKey": null,
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "key": "shelf-pin",
+        "kind": "shelf-pin",
+        "labelParams": {
+          "diameterMm": 5
+        },
+        "partIds": [
+          "side:L",
+          "side:R"
+        ],
+        "profileKey": null,
+        "quantity": 8,
+        "unit": "pcs"
+      }
+    ],
+    "holes": [
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#1",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#2",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 162.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#3",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 284.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#4",
+        "jointId": "joint:side:L:bottom",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 407
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#5",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#6",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 162.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#7",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 284.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "side:L#carcass-screw#8",
+        "jointId": "joint:side:L:top",
+        "partId": "side:L",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 407
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "A",
+        "id": "side:L#hinge-plate#1",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 86,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "A",
+        "id": "side:L#hinge-plate#2",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 118,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "A",
+        "id": "side:L#hinge-plate#3",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 682,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "A",
+        "id": "side:L#hinge-plate#4",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 714,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#1",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 58,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#2",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 58,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#3",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 90,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#4",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 122,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#5",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 154,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#6",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 154,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#7",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 186,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#8",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 186,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#9",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 218,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#10",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 218,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#11",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 250,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#12",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 250,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#13",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 282,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#14",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 282,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#15",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 314,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#16",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 314,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#17",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 346,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#18",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 346,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#19",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 378,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#20",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 378,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#21",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 410,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#22",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 410,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#23",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 442,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#24",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 442,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#25",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 474,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#26",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 474,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#27",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 506,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#28",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 506,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#29",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 538,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#30",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 538,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#31",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 570,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#32",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 570,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#33",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 602,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#34",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 602,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#35",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 634,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#36",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 634,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#37",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 666,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#38",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 666,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#39",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 698,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#40",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 698,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#41",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 730,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "A",
+        "id": "side:L#shelf-pin#42",
+        "jointId": null,
+        "partId": "side:L",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 730,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#1",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#2",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 162.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#3",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 284.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#4",
+        "jointId": "joint:side:R:bottom",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 9,
+        "vMm": 407
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#5",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#6",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 162.3
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#7",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 284.7
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "side:R#carcass-screw#8",
+        "jointId": "joint:side:R:top",
+        "partId": "side:R",
+        "profileKey": null,
+        "purpose": "carcass-screw",
+        "uMm": 791,
+        "vMm": 407
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "B",
+        "id": "side:R#hinge-plate#1",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 86,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "B",
+        "id": "side:R#hinge-plate#2",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 118,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "B",
+        "id": "side:R#hinge-plate#3",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 682,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 2.5,
+        "face": "B",
+        "id": "side:R#hinge-plate#4",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "hinge",
+        "purpose": "hinge-plate",
+        "uMm": 714,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#1",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 58,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#2",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 58,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#3",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 90,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#4",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 122,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#5",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 154,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#6",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 154,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#7",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 186,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#8",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 186,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#9",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 218,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#10",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 218,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#11",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 250,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#12",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 250,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#13",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 282,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#14",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 282,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#15",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 314,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#16",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 314,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#17",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 346,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#18",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 346,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#19",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 378,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#20",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 378,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#21",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 410,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#22",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 410,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#23",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 442,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#24",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 442,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#25",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 474,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#26",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 474,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#27",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 506,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#28",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 506,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#29",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 538,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#30",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 538,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#31",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 570,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#32",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 570,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#33",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 602,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#34",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 602,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#35",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 634,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#36",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 634,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#37",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 666,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#38",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 666,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#39",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 698,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#40",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 698,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#41",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 730,
+        "vMm": 37
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 10,
+        "diameterMm": 5,
+        "face": "B",
+        "id": "side:R#shelf-pin#42",
+        "jointId": null,
+        "partId": "side:R",
+        "profileKey": "shelfPin",
+        "purpose": "shelf-pin",
+        "uMm": 730,
+        "vMm": 410
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "plinth:L#plinth-screw#1",
+        "jointId": "joint:plinth:L:plinth:B",
+        "partId": "plinth:L",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 9,
+        "vMm": 25
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "plinth:L#plinth-screw#2",
+        "jointId": "joint:plinth:L:plinth:B",
+        "partId": "plinth:L",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 9,
+        "vMm": 75
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "plinth:L#plinth-screw#3",
+        "jointId": "joint:plinth:L:plinth:F",
+        "partId": "plinth:L",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 391,
+        "vMm": 25
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "B",
+        "id": "plinth:L#plinth-screw#4",
+        "jointId": "joint:plinth:L:plinth:F",
+        "partId": "plinth:L",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 391,
+        "vMm": 75
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "plinth:R#plinth-screw#1",
+        "jointId": "joint:plinth:R:plinth:B",
+        "partId": "plinth:R",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 9,
+        "vMm": 25
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "plinth:R#plinth-screw#2",
+        "jointId": "joint:plinth:R:plinth:B",
+        "partId": "plinth:R",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 9,
+        "vMm": 75
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "plinth:R#plinth-screw#3",
+        "jointId": "joint:plinth:R:plinth:F",
+        "partId": "plinth:R",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 391,
+        "vMm": 25
+      },
+      {
+        "countersinkDiameterMm": 8.5,
+        "depthMm": "through",
+        "diameterMm": 4.5,
+        "face": "A",
+        "id": "plinth:R#plinth-screw#4",
+        "jointId": "joint:plinth:R:plinth:F",
+        "partId": "plinth:R",
+        "profileKey": null,
+        "purpose": "plinth-screw",
+        "uMm": 391,
+        "vMm": 75
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": "through",
+        "diameterMm": 5,
+        "face": "A",
+        "id": "door:id-3:L#handle#1",
+        "jointId": null,
+        "partId": "door:id-3:L",
+        "profileKey": "handle",
+        "purpose": "handle",
+        "uMm": 652,
+        "vMm": 356.5
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": "through",
+        "diameterMm": 5,
+        "face": "A",
+        "id": "door:id-3:L#handle#2",
+        "jointId": null,
+        "partId": "door:id-3:L",
+        "profileKey": "handle",
+        "purpose": "handle",
+        "uMm": 780,
+        "vMm": 356.5
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 13,
+        "diameterMm": 35,
+        "face": "B",
+        "id": "door:id-3:L#hinge-cup#1",
+        "jointId": null,
+        "partId": "door:id-3:L",
+        "profileKey": "hinge",
+        "purpose": "hinge-cup",
+        "uMm": 100,
+        "vMm": 21.5
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 13,
+        "diameterMm": 35,
+        "face": "B",
+        "id": "door:id-3:L#hinge-cup#2",
+        "jointId": null,
+        "partId": "door:id-3:L",
+        "profileKey": "hinge",
+        "purpose": "hinge-cup",
+        "uMm": 696,
+        "vMm": 21.5
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": "through",
+        "diameterMm": 5,
+        "face": "A",
+        "id": "door:id-3:R#handle#1",
+        "jointId": null,
+        "partId": "door:id-3:R",
+        "profileKey": "handle",
+        "purpose": "handle",
+        "uMm": 652,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": "through",
+        "diameterMm": 5,
+        "face": "A",
+        "id": "door:id-3:R#handle#2",
+        "jointId": null,
+        "partId": "door:id-3:R",
+        "profileKey": "handle",
+        "purpose": "handle",
+        "uMm": 780,
+        "vMm": 40
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 13,
+        "diameterMm": 35,
+        "face": "B",
+        "id": "door:id-3:R#hinge-cup#1",
+        "jointId": null,
+        "partId": "door:id-3:R",
+        "profileKey": "hinge",
+        "purpose": "hinge-cup",
+        "uMm": 100,
+        "vMm": 375
+      },
+      {
+        "countersinkDiameterMm": null,
+        "depthMm": 13,
+        "diameterMm": 35,
+        "face": "B",
+        "id": "door:id-3:R#hinge-cup#2",
+        "jointId": null,
+        "partId": "door:id-3:R",
+        "profileKey": "hinge",
+        "purpose": "hinge-cup",
+        "uMm": 696,
+        "vMm": 375
+      }
+    ],
+    "issues": [
+      {
+        "code": "HARDWARE_PROFILE_UNVERIFIED",
+        "params": {
+          "name": "Bar handle 128 mm",
+          "profile": "handle:h-bar-128"
+        },
+        "severity": "warning",
+        "target": {
+          "field": "verifiedByUser",
+          "id": "h-bar-128",
+          "kind": "profile"
+        }
+      },
+      {
+        "code": "HARDWARE_PROFILE_UNVERIFIED",
+        "params": {
+          "name": "Concealed cup hinge 35 mm (generic)",
+          "profile": "hinge"
+        },
+        "severity": "warning",
+        "target": {
+          "field": "verifiedByUser",
+          "id": "hinge-generic-35",
+          "kind": "profile"
+        }
+      },
+      {
+        "code": "TALL_FURNITURE_ANCHOR",
+        "params": {
+          "heightMm": 900
+        },
+        "severity": "warning",
+        "target": {
+          "field": "heightMm",
+          "id": "carcass",
+          "kind": "carcass"
+        }
+      }
+    ],
+    "joints": [
+      {
+        "count": 4,
+        "facePartId": "side:L",
+        "id": "joint:side:L:top",
+        "kind": "screw-butt",
+        "otherPartId": "top",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 4,
+        "facePartId": "side:L",
+        "id": "joint:side:L:bottom",
+        "kind": "screw-butt",
+        "otherPartId": "bottom",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 4,
+        "facePartId": "side:R",
+        "id": "joint:side:R:top",
+        "kind": "screw-butt",
+        "otherPartId": "top",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 4,
+        "facePartId": "side:R",
+        "id": "joint:side:R:bottom",
+        "kind": "screw-butt",
+        "otherPartId": "bottom",
+        "screw": "carcassScrew"
+      },
+      {
+        "count": 2,
+        "facePartId": "plinth:L",
+        "id": "joint:plinth:L:plinth:F",
+        "kind": "screw-butt",
+        "otherPartId": "plinth:F",
+        "screw": "plinthScrew"
+      },
+      {
+        "count": 2,
+        "facePartId": "plinth:L",
+        "id": "joint:plinth:L:plinth:B",
+        "kind": "screw-butt",
+        "otherPartId": "plinth:B",
+        "screw": "plinthScrew"
+      },
+      {
+        "count": 2,
+        "facePartId": "plinth:R",
+        "id": "joint:plinth:R:plinth:F",
+        "kind": "screw-butt",
+        "otherPartId": "plinth:F",
+        "screw": "plinthScrew"
+      },
+      {
+        "count": 2,
+        "facePartId": "plinth:R",
+        "id": "joint:plinth:R:plinth:B",
+        "kind": "screw-butt",
+        "otherPartId": "plinth:B",
+        "screw": "plinthScrew"
+      }
+    ],
+    "layout": {
+      "columns": [
+        {
+          "id": "id-2",
+          "index": 0,
+          "sections": [
+            {
+              "columnId": "id-2",
+              "heightMm": 764,
+              "id": "id-3",
+              "index": 0,
+              "y0": 118,
+              "y1": 882
+            }
+          ],
+          "widthMm": 764,
+          "x0": 18,
+          "x1": 782
+        }
+      ],
+      "dims": {
+        "D": 450,
+        "Dc": 447,
+        "H": 900,
+        "Hc": 800,
+        "Hi": 764,
+        "W": 800,
+        "Wi": 764,
+        "hP": 100,
+        "t": 18,
+        "tB": 3,
+        "tF": 18,
+        "tFr": 18,
+        "tP": 18,
+        "tb": 15,
+        "tbt": 9
+      }
+    },
+    "marks": [
+      {
+        "face": "B",
+        "id": "back#back-nail#1",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 48
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#2",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 136
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#3",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 224
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#4",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 312
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#5",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 400
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#6",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 488
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#7",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 576
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#8",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 664
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#9",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 9,
+        "vMm": 752
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#10",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 30,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#11",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 30,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#12",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 122.5,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#13",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 122.5,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#14",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 215,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#15",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 215,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#16",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 307.5,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#17",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 307.5,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#18",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 400,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#19",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 400,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#20",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 492.5,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#21",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 492.5,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#22",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 585,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#23",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 585,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#24",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 677.5,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#25",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 677.5,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#26",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 770,
+        "vMm": 9
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#27",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 770,
+        "vMm": 791
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#28",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 48
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#29",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 136
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#30",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 224
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#31",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 312
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#32",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 400
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#33",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 488
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#34",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 576
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#35",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 664
+      },
+      {
+        "face": "B",
+        "id": "back#back-nail#36",
+        "partId": "back",
+        "purpose": "back-nail",
+        "uMm": 791,
+        "vMm": 752
+      }
+    ],
+    "parts": [
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            18,
+            900,
+            450
+          ],
+          "min": [
+            0,
+            100,
+            3
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "z",
+          "w": "x"
+        },
+        "id": "side:L",
+        "lengthMm": 800,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "side-left",
+        "thicknessMm": 18,
+        "widthMm": 447
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            800,
+            900,
+            450
+          ],
+          "min": [
+            782,
+            100,
+            3
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "z",
+          "w": "x"
+        },
+        "id": "side:R",
+        "lengthMm": 800,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "side-right",
+        "thicknessMm": 18,
+        "widthMm": 447
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            782,
+            900,
+            450
+          ],
+          "min": [
+            18,
+            882,
+            3
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "z",
+          "w": "y"
+        },
+        "id": "top",
+        "lengthMm": 764,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "top",
+        "thicknessMm": 18,
+        "widthMm": 447
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            782,
+            118,
+            450
+          ],
+          "min": [
+            18,
+            100,
+            3
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "z",
+          "w": "y"
+        },
+        "id": "bottom",
+        "lengthMm": 764,
+        "materialId": "mat-ply-18",
+        "ownerId": "carcass",
+        "role": "bottom",
+        "thicknessMm": 18,
+        "widthMm": 447
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            781,
+            402.5,
+            430
+          ],
+          "min": [
+            19,
+            384.5,
+            5
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "z",
+          "w": "y"
+        },
+        "id": "adj:id-3:1",
+        "lengthMm": 762,
+        "materialId": "mat-ply-18",
+        "ownerId": "id-3",
+        "role": "adjustable-shelf",
+        "thicknessMm": 18,
+        "widthMm": 425
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "box": {
+          "max": [
+            781,
+            658.5,
+            430
+          ],
+          "min": [
+            19,
+            640.5,
+            5
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "z",
+          "w": "y"
+        },
+        "id": "adj:id-3:2",
+        "lengthMm": 762,
+        "materialId": "mat-ply-18",
+        "ownerId": "id-3",
+        "role": "adjustable-shelf",
+        "thicknessMm": 18,
+        "widthMm": 425
+      },
+      {
+        "bandedEdges": [],
+        "box": {
+          "max": [
+            800,
+            900,
+            3
+          ],
+          "min": [
+            0,
+            100,
+            0
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "x",
+          "w": "z"
+        },
+        "id": "back",
+        "lengthMm": 800,
+        "materialId": "mat-hdf-3",
+        "ownerId": "back",
+        "role": "back",
+        "thicknessMm": 3,
+        "widthMm": 800
+      },
+      {
+        "bandedEdges": [],
+        "box": {
+          "max": [
+            18,
+            100,
+            400
+          ],
+          "min": [
+            0,
+            0,
+            0
+          ]
+        },
+        "frame": {
+          "u": "z",
+          "v": "y",
+          "w": "x"
+        },
+        "id": "plinth:L",
+        "lengthMm": 400,
+        "materialId": "mat-ply-18",
+        "ownerId": "plinth",
+        "role": "plinth-side",
+        "thicknessMm": 18,
+        "widthMm": 100
+      },
+      {
+        "bandedEdges": [],
+        "box": {
+          "max": [
+            800,
+            100,
+            400
+          ],
+          "min": [
+            782,
+            0,
+            0
+          ]
+        },
+        "frame": {
+          "u": "z",
+          "v": "y",
+          "w": "x"
+        },
+        "id": "plinth:R",
+        "lengthMm": 400,
+        "materialId": "mat-ply-18",
+        "ownerId": "plinth",
+        "role": "plinth-side",
+        "thicknessMm": 18,
+        "widthMm": 100
+      },
+      {
+        "bandedEdges": [],
+        "box": {
+          "max": [
+            782,
+            100,
+            400
+          ],
+          "min": [
+            18,
+            0,
+            382
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "y",
+          "w": "z"
+        },
+        "id": "plinth:F",
+        "lengthMm": 764,
+        "materialId": "mat-ply-18",
+        "ownerId": "plinth",
+        "role": "plinth-front",
+        "thicknessMm": 18,
+        "widthMm": 100
+      },
+      {
+        "bandedEdges": [],
+        "box": {
+          "max": [
+            782,
+            100,
+            18
+          ],
+          "min": [
+            18,
+            0,
+            0
+          ]
+        },
+        "frame": {
+          "u": "x",
+          "v": "y",
+          "w": "z"
+        },
+        "id": "plinth:B",
+        "lengthMm": 764,
+        "materialId": "mat-ply-18",
+        "ownerId": "plinth",
+        "role": "plinth-back",
+        "thicknessMm": 18,
+        "widthMm": 100
+      },
+      {
+        "bandedEdges": [
+          "u0",
+          "u1",
+          "v0",
+          "v1"
+        ],
+        "box": {
+          "max": [
+            398.5,
+            898,
+            468
+          ],
+          "min": [
+            2,
+            102,
+            450
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "x",
+          "w": "z"
+        },
+        "id": "door:id-3:L",
+        "lengthMm": 796,
+        "materialId": "mat-ply-18",
+        "ownerId": "id-3",
+        "role": "door",
+        "thicknessMm": 18,
+        "widthMm": 396.5
+      },
+      {
+        "bandedEdges": [
+          "u0",
+          "u1",
+          "v0",
+          "v1"
+        ],
+        "box": {
+          "max": [
+            798,
+            898,
+            468
+          ],
+          "min": [
+            401.5,
+            102,
+            450
+          ]
+        },
+        "frame": {
+          "u": "y",
+          "v": "x",
+          "w": "z"
+        },
+        "id": "door:id-3:R",
+        "lengthMm": 796,
+        "materialId": "mat-ply-18",
+        "ownerId": "id-3",
+        "role": "door",
+        "thicknessMm": 18,
+        "widthMm": 396.5
+      }
+    ],
+    "rails": []
+  },
+  "outputs": {
+    "cutList": [
+      {
+        "materialId": "mat-ply-18",
+        "rows": [
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 800,
+              "widthMm": 447
+            },
+            "finished": {
+              "lengthMm": 800,
+              "thicknessMm": 18,
+              "widthMm": 447
+            },
+            "grain": "length",
+            "partIds": [
+              "side:L"
+            ],
+            "position": 1,
+            "quantity": 1,
+            "role": "side-left"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 800,
+              "widthMm": 447
+            },
+            "finished": {
+              "lengthMm": 800,
+              "thicknessMm": 18,
+              "widthMm": 447
+            },
+            "grain": "length",
+            "partIds": [
+              "side:R"
+            ],
+            "position": 2,
+            "quantity": 1,
+            "role": "side-right"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 764,
+              "widthMm": 447
+            },
+            "finished": {
+              "lengthMm": 764,
+              "thicknessMm": 18,
+              "widthMm": 447
+            },
+            "grain": "length",
+            "partIds": [
+              "top"
+            ],
+            "position": 3,
+            "quantity": 1,
+            "role": "top"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 764,
+              "widthMm": 447
+            },
+            "finished": {
+              "lengthMm": 764,
+              "thicknessMm": 18,
+              "widthMm": 447
+            },
+            "grain": "length",
+            "partIds": [
+              "bottom"
+            ],
+            "position": 4,
+            "quantity": 1,
+            "role": "bottom"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 1
+            },
+            "cut": {
+              "lengthMm": 762,
+              "widthMm": 425
+            },
+            "finished": {
+              "lengthMm": 762,
+              "thicknessMm": 18,
+              "widthMm": 425
+            },
+            "grain": "length",
+            "partIds": [
+              "adj:id-3:1",
+              "adj:id-3:2"
+            ],
+            "position": 5,
+            "quantity": 2,
+            "role": "adjustable-shelf"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 0
+            },
+            "cut": {
+              "lengthMm": 400,
+              "widthMm": 100
+            },
+            "finished": {
+              "lengthMm": 400,
+              "thicknessMm": 18,
+              "widthMm": 100
+            },
+            "grain": "length",
+            "partIds": [
+              "plinth:L"
+            ],
+            "position": 7,
+            "quantity": 1,
+            "role": "plinth-side"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 0
+            },
+            "cut": {
+              "lengthMm": 400,
+              "widthMm": 100
+            },
+            "finished": {
+              "lengthMm": 400,
+              "thicknessMm": 18,
+              "widthMm": 100
+            },
+            "grain": "length",
+            "partIds": [
+              "plinth:R"
+            ],
+            "position": 8,
+            "quantity": 1,
+            "role": "plinth-side"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 0
+            },
+            "cut": {
+              "lengthMm": 764,
+              "widthMm": 100
+            },
+            "finished": {
+              "lengthMm": 764,
+              "thicknessMm": 18,
+              "widthMm": 100
+            },
+            "grain": "length",
+            "partIds": [
+              "plinth:F"
+            ],
+            "position": 9,
+            "quantity": 1,
+            "role": "plinth-front"
+          },
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 0
+            },
+            "cut": {
+              "lengthMm": 764,
+              "widthMm": 100
+            },
+            "finished": {
+              "lengthMm": 764,
+              "thicknessMm": 18,
+              "widthMm": 100
+            },
+            "grain": "length",
+            "partIds": [
+              "plinth:B"
+            ],
+            "position": 10,
+            "quantity": 1,
+            "role": "plinth-back"
+          },
+          {
+            "bandedEdges": {
+              "u": 2,
+              "v": 2
+            },
+            "cut": {
+              "lengthMm": 796,
+              "widthMm": 396.5
+            },
+            "finished": {
+              "lengthMm": 796,
+              "thicknessMm": 18,
+              "widthMm": 396.5
+            },
+            "grain": "length",
+            "partIds": [
+              "door:id-3:L"
+            ],
+            "position": 11,
+            "quantity": 1,
+            "role": "door"
+          },
+          {
+            "bandedEdges": {
+              "u": 2,
+              "v": 2
+            },
+            "cut": {
+              "lengthMm": 796,
+              "widthMm": 396.5
+            },
+            "finished": {
+              "lengthMm": 796,
+              "thicknessMm": 18,
+              "widthMm": 396.5
+            },
+            "grain": "length",
+            "partIds": [
+              "door:id-3:R"
+            ],
+            "position": 12,
+            "quantity": 1,
+            "role": "door"
+          }
+        ]
+      },
+      {
+        "materialId": "mat-hdf-3",
+        "rows": [
+          {
+            "bandedEdges": {
+              "u": 0,
+              "v": 0
+            },
+            "cut": {
+              "lengthMm": 800,
+              "widthMm": 800
+            },
+            "finished": {
+              "lengthMm": 800,
+              "thicknessMm": 3,
+              "widthMm": 800
+            },
+            "grain": "none",
+            "partIds": [
+              "back"
+            ],
+            "position": 6,
+            "quantity": 1,
+            "role": "back"
+          }
+        ]
+      }
+    ],
+    "cuttingLayouts": [
+      {
+        "boardAreaM2": 6.3,
+        "grain": true,
+        "kerfMm": 3,
+        "materialId": "mat-ply-18",
+        "sheets": [
+          {
+            "index": 1,
+            "lengthMm": 2500,
+            "placements": [
+              {
+                "acrossMm": 447,
+                "alongMm": 800,
+                "partId": "side:L",
+                "position": 1,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 5
+              },
+              {
+                "acrossMm": 447,
+                "alongMm": 800,
+                "partId": "side:R",
+                "position": 2,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 455
+              },
+              {
+                "acrossMm": 396.5,
+                "alongMm": 796,
+                "partId": "door:id-3:L",
+                "position": 11,
+                "rotated": false,
+                "xMm": 808,
+                "yMm": 5
+              },
+              {
+                "acrossMm": 396.5,
+                "alongMm": 796,
+                "partId": "door:id-3:R",
+                "position": 12,
+                "rotated": false,
+                "xMm": 808,
+                "yMm": 404.5
+              },
+              {
+                "acrossMm": 447,
+                "alongMm": 764,
+                "partId": "top",
+                "position": 3,
+                "rotated": false,
+                "xMm": 1607,
+                "yMm": 5
+              },
+              {
+                "acrossMm": 447,
+                "alongMm": 764,
+                "partId": "bottom",
+                "position": 4,
+                "rotated": false,
+                "xMm": 1607,
+                "yMm": 455
+              },
+              {
+                "acrossMm": 100,
+                "alongMm": 764,
+                "partId": "plinth:F",
+                "position": 9,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 905
+              },
+              {
+                "acrossMm": 100,
+                "alongMm": 764,
+                "partId": "plinth:B",
+                "position": 10,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 1008
+              },
+              {
+                "acrossMm": 425,
+                "alongMm": 762,
+                "partId": "adj:id-3:1",
+                "position": 5,
+                "rotated": false,
+                "xMm": 808,
+                "yMm": 804
+              },
+              {
+                "acrossMm": 100,
+                "alongMm": 400,
+                "partId": "plinth:L",
+                "position": 7,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 1111
+              },
+              {
+                "acrossMm": 100,
+                "alongMm": 400,
+                "partId": "plinth:R",
+                "position": 8,
+                "rotated": false,
+                "xMm": 1607,
+                "yMm": 905
+              }
+            ],
+            "usedMm2": 2586094,
+            "widthMm": 1250
+          },
+          {
+            "index": 2,
+            "lengthMm": 2500,
+            "placements": [
+              {
+                "acrossMm": 425,
+                "alongMm": 762,
+                "partId": "adj:id-3:2",
+                "position": 5,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 5
+              }
+            ],
+            "usedMm2": 323850,
+            "widthMm": 1250
+          }
+        ],
+        "sizes": [
+          {
+            "count": 2,
+            "lengthMm": 2500,
+            "widthMm": 1250
+          }
+        ],
+        "trimMm": 5,
+        "unplaced": [],
+        "utilisation": 0.5
+      },
+      {
+        "boardAreaM2": 5.8,
+        "grain": false,
+        "kerfMm": 3,
+        "materialId": "mat-hdf-3",
+        "sheets": [
+          {
+            "index": 1,
+            "lengthMm": 2800,
+            "placements": [
+              {
+                "acrossMm": 800,
+                "alongMm": 800,
+                "partId": "back",
+                "position": 6,
+                "rotated": false,
+                "xMm": 5,
+                "yMm": 5
+              }
+            ],
+            "usedMm2": 640000,
+            "widthMm": 2070
+          }
+        ],
+        "sizes": [
+          {
+            "count": 1,
+            "lengthMm": 2800,
+            "widthMm": 2070
+          }
+        ],
+        "trimMm": 5,
+        "unplaced": [],
+        "utilisation": 0.1
+      }
+    ],
+    "drillingPlans": [
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "back",
+              "v1": "front"
+            },
+            "face": "A",
+            "holes": [
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H1",
+                "xMm": 58,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H2",
+                "xMm": 58,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H3",
+                "xMm": 86,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H4",
+                "xMm": 90,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H5",
+                "xMm": 118,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H6",
+                "xMm": 122,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H7",
+                "xMm": 154,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H8",
+                "xMm": 154,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H9",
+                "xMm": 186,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H10",
+                "xMm": 186,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H11",
+                "xMm": 218,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H12",
+                "xMm": 218,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H13",
+                "xMm": 250,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H14",
+                "xMm": 250,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H15",
+                "xMm": 282,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H16",
+                "xMm": 282,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H17",
+                "xMm": 314,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H18",
+                "xMm": 314,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H19",
+                "xMm": 346,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H20",
+                "xMm": 346,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H21",
+                "xMm": 378,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H22",
+                "xMm": 378,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H23",
+                "xMm": 410,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H24",
+                "xMm": 410,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H25",
+                "xMm": 442,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H26",
+                "xMm": 442,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H27",
+                "xMm": 474,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H28",
+                "xMm": 474,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H29",
+                "xMm": 506,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H30",
+                "xMm": 506,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H31",
+                "xMm": 538,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H32",
+                "xMm": 538,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H33",
+                "xMm": 570,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H34",
+                "xMm": 570,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H35",
+                "xMm": 602,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H36",
+                "xMm": 602,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H37",
+                "xMm": 634,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H38",
+                "xMm": 634,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H39",
+                "xMm": 666,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H40",
+                "xMm": 666,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H41",
+                "xMm": 682,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H42",
+                "xMm": 698,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H43",
+                "xMm": 698,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H44",
+                "xMm": 714,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H45",
+                "xMm": 730,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H46",
+                "xMm": 730,
+                "yMm": 410
+              }
+            ],
+            "marks": [],
+            "semantic": "inner"
+          },
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "back",
+              "v1": "front"
+            },
+            "face": "B",
+            "holes": [
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H1",
+                "xMm": 9,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H2",
+                "xMm": 9,
+                "yMm": 162.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H3",
+                "xMm": 9,
+                "yMm": 284.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H4",
+                "xMm": 9,
+                "yMm": 407
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H5",
+                "xMm": 791,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H6",
+                "xMm": 791,
+                "yMm": 162.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H7",
+                "xMm": 791,
+                "yMm": 284.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H8",
+                "xMm": 791,
+                "yMm": 407
+              }
+            ],
+            "marks": [],
+            "semantic": "outer"
+          }
+        ],
+        "lengthMm": 800,
+        "position": 1,
+        "quantity": 1,
+        "role": "side-left",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [
+          "Concealed cup hinge 35 mm (generic)"
+        ],
+        "widthMm": 447
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "back",
+              "v1": "front"
+            },
+            "face": "A",
+            "holes": [
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H1",
+                "xMm": 9,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H2",
+                "xMm": 9,
+                "yMm": 162.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H3",
+                "xMm": 9,
+                "yMm": 284.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H4",
+                "xMm": 9,
+                "yMm": 407
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H5",
+                "xMm": 791,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H6",
+                "xMm": 791,
+                "yMm": 162.3
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H7",
+                "xMm": 791,
+                "yMm": 284.7
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "carcass-screw",
+                "ref": "H8",
+                "xMm": 791,
+                "yMm": 407
+              }
+            ],
+            "marks": [],
+            "semantic": "outer"
+          },
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "back",
+              "v1": "front"
+            },
+            "face": "B",
+            "holes": [
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H1",
+                "xMm": 70,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H2",
+                "xMm": 70,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H3",
+                "xMm": 86,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H4",
+                "xMm": 102,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H5",
+                "xMm": 102,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H6",
+                "xMm": 118,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H7",
+                "xMm": 134,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H8",
+                "xMm": 134,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H9",
+                "xMm": 166,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H10",
+                "xMm": 166,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H11",
+                "xMm": 198,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H12",
+                "xMm": 198,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H13",
+                "xMm": 230,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H14",
+                "xMm": 230,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H15",
+                "xMm": 262,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H16",
+                "xMm": 262,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H17",
+                "xMm": 294,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H18",
+                "xMm": 294,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H19",
+                "xMm": 326,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H20",
+                "xMm": 326,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H21",
+                "xMm": 358,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H22",
+                "xMm": 358,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H23",
+                "xMm": 390,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H24",
+                "xMm": 390,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H25",
+                "xMm": 422,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H26",
+                "xMm": 422,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H27",
+                "xMm": 454,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H28",
+                "xMm": 454,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H29",
+                "xMm": 486,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H30",
+                "xMm": 486,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H31",
+                "xMm": 518,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H32",
+                "xMm": 518,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H33",
+                "xMm": 550,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H34",
+                "xMm": 550,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H35",
+                "xMm": 582,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H36",
+                "xMm": 582,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H37",
+                "xMm": 614,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H38",
+                "xMm": 614,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H39",
+                "xMm": 646,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H40",
+                "xMm": 646,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H41",
+                "xMm": 678,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H42",
+                "xMm": 682,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H43",
+                "xMm": 710,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 2.5,
+                "purpose": "hinge-plate",
+                "ref": "H44",
+                "xMm": 714,
+                "yMm": 410
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H45",
+                "xMm": 742,
+                "yMm": 37
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 10,
+                "diameterMm": 5,
+                "purpose": "shelf-pin",
+                "ref": "H46",
+                "xMm": 742,
+                "yMm": 410
+              }
+            ],
+            "marks": [],
+            "semantic": "inner"
+          }
+        ],
+        "lengthMm": 800,
+        "position": 2,
+        "quantity": 1,
+        "role": "side-right",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [
+          "Concealed cup hinge 35 mm (generic)"
+        ],
+        "widthMm": 447
+      },
+      {
+        "bandedEdges": [],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "left",
+              "v1": "right"
+            },
+            "face": "B",
+            "holes": [],
+            "marks": [
+              {
+                "purpose": "back-nail",
+                "ref": "M1",
+                "xMm": 9,
+                "yMm": 48
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M2",
+                "xMm": 9,
+                "yMm": 136
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M3",
+                "xMm": 9,
+                "yMm": 224
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M4",
+                "xMm": 9,
+                "yMm": 312
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M5",
+                "xMm": 9,
+                "yMm": 400
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M6",
+                "xMm": 9,
+                "yMm": 488
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M7",
+                "xMm": 9,
+                "yMm": 576
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M8",
+                "xMm": 9,
+                "yMm": 664
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M9",
+                "xMm": 9,
+                "yMm": 752
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M10",
+                "xMm": 30,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M11",
+                "xMm": 30,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M12",
+                "xMm": 122.5,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M13",
+                "xMm": 122.5,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M14",
+                "xMm": 215,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M15",
+                "xMm": 215,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M16",
+                "xMm": 307.5,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M17",
+                "xMm": 307.5,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M18",
+                "xMm": 400,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M19",
+                "xMm": 400,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M20",
+                "xMm": 492.5,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M21",
+                "xMm": 492.5,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M22",
+                "xMm": 585,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M23",
+                "xMm": 585,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M24",
+                "xMm": 677.5,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M25",
+                "xMm": 677.5,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M26",
+                "xMm": 770,
+                "yMm": 9
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M27",
+                "xMm": 770,
+                "yMm": 791
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M28",
+                "xMm": 791,
+                "yMm": 48
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M29",
+                "xMm": 791,
+                "yMm": 136
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M30",
+                "xMm": 791,
+                "yMm": 224
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M31",
+                "xMm": 791,
+                "yMm": 312
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M32",
+                "xMm": 791,
+                "yMm": 400
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M33",
+                "xMm": 791,
+                "yMm": 488
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M34",
+                "xMm": 791,
+                "yMm": 576
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M35",
+                "xMm": 791,
+                "yMm": 664
+              },
+              {
+                "purpose": "back-nail",
+                "ref": "M36",
+                "xMm": 791,
+                "yMm": 752
+              }
+            ],
+            "semantic": "rear-face"
+          }
+        ],
+        "lengthMm": 800,
+        "position": 6,
+        "quantity": 1,
+        "role": "back",
+        "thicknessMm": 3,
+        "unverifiedProfiles": [],
+        "widthMm": 800
+      },
+      {
+        "bandedEdges": [],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "back",
+              "u1": "front",
+              "v0": "bottom",
+              "v1": "top"
+            },
+            "face": "B",
+            "holes": [
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H1",
+                "xMm": 9,
+                "yMm": 25
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H2",
+                "xMm": 9,
+                "yMm": 75
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H3",
+                "xMm": 391,
+                "yMm": 25
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H4",
+                "xMm": 391,
+                "yMm": 75
+              }
+            ],
+            "marks": [],
+            "semantic": "left-face"
+          }
+        ],
+        "lengthMm": 400,
+        "position": 7,
+        "quantity": 1,
+        "role": "plinth-side",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [],
+        "widthMm": 100
+      },
+      {
+        "bandedEdges": [],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "back",
+              "u1": "front",
+              "v0": "bottom",
+              "v1": "top"
+            },
+            "face": "A",
+            "holes": [
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H1",
+                "xMm": 9,
+                "yMm": 25
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H2",
+                "xMm": 9,
+                "yMm": 75
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H3",
+                "xMm": 391,
+                "yMm": 25
+              },
+              {
+                "countersinkDiameterMm": 8.5,
+                "depth": "through",
+                "diameterMm": 4.5,
+                "purpose": "plinth-screw",
+                "ref": "H4",
+                "xMm": 391,
+                "yMm": 75
+              }
+            ],
+            "marks": [],
+            "semantic": "right-face"
+          }
+        ],
+        "lengthMm": 400,
+        "position": 8,
+        "quantity": 1,
+        "role": "plinth-side",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [],
+        "widthMm": 100
+      },
+      {
+        "bandedEdges": [
+          "u0",
+          "u1",
+          "v0",
+          "v1"
+        ],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "left",
+              "v1": "right"
+            },
+            "face": "A",
+            "holes": [
+              {
+                "countersinkDiameterMm": null,
+                "depth": "through",
+                "diameterMm": 5,
+                "purpose": "handle",
+                "ref": "H1",
+                "xMm": 652,
+                "yMm": 356.5
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": "through",
+                "diameterMm": 5,
+                "purpose": "handle",
+                "ref": "H2",
+                "xMm": 780,
+                "yMm": 356.5
+              }
+            ],
+            "marks": [],
+            "semantic": "front-face"
+          },
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "left",
+              "v1": "right"
+            },
+            "face": "B",
+            "holes": [
+              {
+                "countersinkDiameterMm": null,
+                "depth": 13,
+                "diameterMm": 35,
+                "purpose": "hinge-cup",
+                "ref": "H1",
+                "xMm": 100,
+                "yMm": 21.5
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 13,
+                "diameterMm": 35,
+                "purpose": "hinge-cup",
+                "ref": "H2",
+                "xMm": 696,
+                "yMm": 21.5
+              }
+            ],
+            "marks": [],
+            "semantic": "rear-face"
+          }
+        ],
+        "lengthMm": 796,
+        "position": 11,
+        "quantity": 1,
+        "role": "door",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [
+          "Bar handle 128 mm",
+          "Concealed cup hinge 35 mm (generic)"
+        ],
+        "widthMm": 396.5
+      },
+      {
+        "bandedEdges": [
+          "u0",
+          "u1",
+          "v0",
+          "v1"
+        ],
+        "faces": [
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "left",
+              "v1": "right"
+            },
+            "face": "A",
+            "holes": [
+              {
+                "countersinkDiameterMm": null,
+                "depth": "through",
+                "diameterMm": 5,
+                "purpose": "handle",
+                "ref": "H1",
+                "xMm": 652,
+                "yMm": 40
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": "through",
+                "diameterMm": 5,
+                "purpose": "handle",
+                "ref": "H2",
+                "xMm": 780,
+                "yMm": 40
+              }
+            ],
+            "marks": [],
+            "semantic": "front-face"
+          },
+          {
+            "edgeNames": {
+              "u0": "bottom",
+              "u1": "top",
+              "v0": "left",
+              "v1": "right"
+            },
+            "face": "B",
+            "holes": [
+              {
+                "countersinkDiameterMm": null,
+                "depth": 13,
+                "diameterMm": 35,
+                "purpose": "hinge-cup",
+                "ref": "H1",
+                "xMm": 100,
+                "yMm": 375
+              },
+              {
+                "countersinkDiameterMm": null,
+                "depth": 13,
+                "diameterMm": 35,
+                "purpose": "hinge-cup",
+                "ref": "H2",
+                "xMm": 696,
+                "yMm": 375
+              }
+            ],
+            "marks": [],
+            "semantic": "rear-face"
+          }
+        ],
+        "lengthMm": 796,
+        "position": 12,
+        "quantity": 1,
+        "role": "door",
+        "thicknessMm": 18,
+        "unverifiedProfiles": [
+          "Bar handle 128 mm",
+          "Concealed cup hinge 35 mm (generic)"
+        ],
+        "widthMm": 396.5
+      }
+    ],
+    "hardware": [
+      {
+        "key": "handle-screw:30",
+        "kind": "screw",
+        "label": {
+          "key": "hardware.screw",
+          "params": {
+            "label": "M4 × 30"
+          }
+        },
+        "positions": [
+          11,
+          12
+        ],
+        "profileKey": null,
+        "quantity": 5,
+        "spareIncluded": 1,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "hinge-screw",
+        "kind": "screw",
+        "label": {
+          "key": "hardware.screw",
+          "params": {
+            "label": "3.5 × 16 chipboard screw"
+          }
+        },
+        "positions": [
+          1,
+          2,
+          11,
+          12
+        ],
+        "profileKey": null,
+        "quantity": 18,
+        "spareIncluded": 2,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "screw:carcassScrew",
+        "kind": "screw",
+        "label": {
+          "key": "hardware.screw",
+          "params": {
+            "label": "Countersunk wood screw 4.0 × 50"
+          }
+        },
+        "positions": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "profileKey": null,
+        "quantity": 18,
+        "spareIncluded": 2,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "screw:plinthBracket",
+        "kind": "screw",
+        "label": {
+          "key": "hardware.screw",
+          "params": {
+            "label": "Countersunk screw 3.5 × 16"
+          }
+        },
+        "positions": [
+          4,
+          7,
+          8,
+          9,
+          10
+        ],
+        "profileKey": null,
+        "quantity": 36,
+        "spareIncluded": 4,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "screw:plinthScrew",
+        "kind": "screw",
+        "label": {
+          "key": "hardware.screw",
+          "params": {
+            "label": "Countersunk wood screw 4.0 × 40"
+          }
+        },
+        "positions": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "profileKey": null,
+        "quantity": 9,
+        "spareIncluded": 1,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "back:nail",
+        "kind": "nail",
+        "label": {
+          "key": "hardware.nail",
+          "params": {
+            "label": "Panel pin 1.6 × 25"
+          }
+        },
+        "positions": [
+          6
+        ],
+        "profileKey": null,
+        "quantity": 40,
+        "spareIncluded": 4,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "shelf-pin",
+        "kind": "shelf-pin",
+        "label": {
+          "key": "hardware.shelf-pin",
+          "params": {
+            "diameterMm": 5
+          }
+        },
+        "positions": [
+          1,
+          2
+        ],
+        "profileKey": null,
+        "quantity": 9,
+        "spareIncluded": 1,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "hinge:full",
+        "kind": "hinge",
+        "label": {
+          "key": "hardware.hinge",
+          "params": {
+            "name": "Concealed cup hinge 35 mm (generic)",
+            "variant": "full"
+          }
+        },
+        "positions": [
+          1,
+          2,
+          11,
+          12
+        ],
+        "profileKey": "hinge",
+        "quantity": 4,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": false
+      },
+      {
+        "key": "hinge-plate",
+        "kind": "hinge-plate",
+        "label": {
+          "key": "hardware.hinge-plate",
+          "params": {
+            "name": "Concealed cup hinge 35 mm (generic)"
+          }
+        },
+        "positions": [
+          1,
+          2,
+          11,
+          12
+        ],
+        "profileKey": "hinge",
+        "quantity": 4,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": false
+      },
+      {
+        "key": "handle:h-bar-128",
+        "kind": "handle",
+        "label": {
+          "key": "hardware.handle",
+          "params": {
+            "name": "Bar handle 128 mm"
+          }
+        },
+        "positions": [
+          11,
+          12
+        ],
+        "profileKey": "handle:h-bar-128",
+        "quantity": 2,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": false
+      },
+      {
+        "key": "plinth-bracket",
+        "kind": "plinth-bracket",
+        "label": {
+          "key": "hardware.plinth-bracket",
+          "params": {
+            "label": "Steel angle bracket 40 × 40"
+          }
+        },
+        "positions": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "profileKey": null,
+        "quantity": 8,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "edge-band:mat-ply-18",
+        "kind": "edge-band",
+        "label": {
+          "key": "hardware.edge-band",
+          "params": {
+            "material": "Birch plywood 18 mm",
+            "thicknessMm": 0.5
+          }
+        },
+        "positions": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          11,
+          12
+        ],
+        "profileKey": null,
+        "quantity": 10.4,
+        "spareIncluded": 0,
+        "unit": "m",
+        "verified": null
+      },
+      {
+        "key": "glue",
+        "kind": "glue",
+        "label": {
+          "key": "hardware.glue",
+          "params": {
+            "joints": 8
+          }
+        },
+        "positions": [],
+        "profileKey": null,
+        "quantity": 8,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": null
+      },
+      {
+        "key": "wall-anchor",
+        "kind": "wall-anchor",
+        "label": {
+          "key": "hardware.wall-anchor"
+        },
+        "positions": [],
+        "profileKey": null,
+        "quantity": 1,
+        "spareIncluded": 0,
+        "unit": "pcs",
+        "verified": null
+      }
+    ],
+    "positions": [
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 800,
+          "widthMm": 447
+        },
+        "finished": {
+          "lengthMm": 800,
+          "thicknessMm": 18,
+          "widthMm": 447
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "side:L"
+        ],
+        "position": 1,
+        "quantity": 1,
+        "role": "side-left"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 800,
+          "widthMm": 447
+        },
+        "finished": {
+          "lengthMm": 800,
+          "thicknessMm": 18,
+          "widthMm": 447
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "side:R"
+        ],
+        "position": 2,
+        "quantity": 1,
+        "role": "side-right"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 764,
+          "widthMm": 447
+        },
+        "finished": {
+          "lengthMm": 764,
+          "thicknessMm": 18,
+          "widthMm": 447
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "top"
+        ],
+        "position": 3,
+        "quantity": 1,
+        "role": "top"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 764,
+          "widthMm": 447
+        },
+        "finished": {
+          "lengthMm": 764,
+          "thicknessMm": 18,
+          "widthMm": 447
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "bottom"
+        ],
+        "position": 4,
+        "quantity": 1,
+        "role": "bottom"
+      },
+      {
+        "bandedEdges": [
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 762,
+          "widthMm": 425
+        },
+        "finished": {
+          "lengthMm": 762,
+          "thicknessMm": 18,
+          "widthMm": 425
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "adj:id-3:1",
+          "adj:id-3:2"
+        ],
+        "position": 5,
+        "quantity": 2,
+        "role": "adjustable-shelf"
+      },
+      {
+        "bandedEdges": [],
+        "cut": {
+          "lengthMm": 800,
+          "widthMm": 800
+        },
+        "finished": {
+          "lengthMm": 800,
+          "thicknessMm": 3,
+          "widthMm": 800
+        },
+        "materialId": "mat-hdf-3",
+        "partIds": [
+          "back"
+        ],
+        "position": 6,
+        "quantity": 1,
+        "role": "back"
+      },
+      {
+        "bandedEdges": [],
+        "cut": {
+          "lengthMm": 400,
+          "widthMm": 100
+        },
+        "finished": {
+          "lengthMm": 400,
+          "thicknessMm": 18,
+          "widthMm": 100
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "plinth:L"
+        ],
+        "position": 7,
+        "quantity": 1,
+        "role": "plinth-side"
+      },
+      {
+        "bandedEdges": [],
+        "cut": {
+          "lengthMm": 400,
+          "widthMm": 100
+        },
+        "finished": {
+          "lengthMm": 400,
+          "thicknessMm": 18,
+          "widthMm": 100
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "plinth:R"
+        ],
+        "position": 8,
+        "quantity": 1,
+        "role": "plinth-side"
+      },
+      {
+        "bandedEdges": [],
+        "cut": {
+          "lengthMm": 764,
+          "widthMm": 100
+        },
+        "finished": {
+          "lengthMm": 764,
+          "thicknessMm": 18,
+          "widthMm": 100
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "plinth:F"
+        ],
+        "position": 9,
+        "quantity": 1,
+        "role": "plinth-front"
+      },
+      {
+        "bandedEdges": [],
+        "cut": {
+          "lengthMm": 764,
+          "widthMm": 100
+        },
+        "finished": {
+          "lengthMm": 764,
+          "thicknessMm": 18,
+          "widthMm": 100
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "plinth:B"
+        ],
+        "position": 10,
+        "quantity": 1,
+        "role": "plinth-back"
+      },
+      {
+        "bandedEdges": [
+          "u0",
+          "u1",
+          "v0",
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 796,
+          "widthMm": 396.5
+        },
+        "finished": {
+          "lengthMm": 796,
+          "thicknessMm": 18,
+          "widthMm": 396.5
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "door:id-3:L"
+        ],
+        "position": 11,
+        "quantity": 1,
+        "role": "door"
+      },
+      {
+        "bandedEdges": [
+          "u0",
+          "u1",
+          "v0",
+          "v1"
+        ],
+        "cut": {
+          "lengthMm": 796,
+          "widthMm": 396.5
+        },
+        "finished": {
+          "lengthMm": 796,
+          "thicknessMm": 18,
+          "widthMm": 396.5
+        },
+        "materialId": "mat-ply-18",
+        "partIds": [
+          "door:id-3:R"
+        ],
+        "position": 12,
+        "quantity": 1,
+        "role": "door"
+      }
+    ],
+    "steps": [
+      {
+        "body": [
+          {
+            "key": "step.cut.body",
+            "params": {
+              "count": 13
+            }
+          },
+          {
+            "key": "step.cut.edgeBand"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "edge-band:mat-ply-18",
+            "quantity": 10.4
+          }
+        ],
+        "highlightPartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "door:id-3:L",
+          "door:id-3:R"
+        ],
+        "index": 1,
+        "newPartIds": [],
+        "orientation": "flat",
+        "phase": "P0",
+        "safety": [
+          {
+            "key": "safety.sawing"
+          }
+        ],
+        "title": {
+          "key": "step.cut.title"
+        },
+        "tools": [
+          "tape-measure",
+          "square",
+          "pencil",
+          "saw",
+          "edge-banding-iron",
+          "edge-trimmer"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "door:id-3:L",
+          "door:id-3:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.drill.body"
+          },
+          {
+            "key": "step.drill.depthStop"
+          },
+          {
+            "key": "step.drill.unverified",
+            "params": {
+              "profiles": "Bar handle 128 mm, Concealed cup hinge 35 mm (generic)"
+            }
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [],
+        "highlightPartIds": [
+          "side:L",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "door:id-3:L",
+          "door:id-3:R"
+        ],
+        "index": 2,
+        "newPartIds": [],
+        "orientation": "flat",
+        "phase": "P0",
+        "safety": [
+          {
+            "key": "safety.drilling"
+          }
+        ],
+        "title": {
+          "key": "step.drill.title"
+        },
+        "tools": [
+          "tape-measure",
+          "square",
+          "pencil",
+          "drill-driver",
+          "drill-bit:2.5",
+          "drill-bit:4.5",
+          "drill-bit:5",
+          "countersink-bit",
+          "forstner-35",
+          "depth-stop"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "door:id-3:L",
+          "door:id-3:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.premount.hingePlates",
+            "params": {
+              "count": 4
+            }
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "hinge-plate",
+            "quantity": 4
+          }
+        ],
+        "highlightPartIds": [
+          "side:L",
+          "side:R"
+        ],
+        "index": 3,
+        "newPartIds": [],
+        "orientation": "flat",
+        "phase": "P0",
+        "safety": [],
+        "title": {
+          "key": "step.premount.title"
+        },
+        "tools": [
+          "drill-driver",
+          "driver-bits"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "side:R",
+          "top",
+          "bottom",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "door:id-3:L",
+          "door:id-3:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.sideLeft.body"
+          },
+          {
+            "key": "step.pilot.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "screw:carcassScrew",
+            "quantity": 8
+          },
+          {
+            "key": "glue",
+            "quantity": 2
+          }
+        ],
+        "highlightPartIds": [
+          "side:L",
+          "top",
+          "bottom"
+        ],
+        "index": 4,
+        "newPartIds": [
+          "side:L",
+          "top",
+          "bottom"
+        ],
+        "orientation": "on-back",
+        "phase": "P4",
+        "safety": [],
+        "title": {
+          "key": "step.sideLeft.title"
+        },
+        "tools": [
+          "square",
+          "clamps",
+          "drill-driver",
+          "driver-bits",
+          "drill-bit:2.5"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.sideRight.body"
+          },
+          {
+            "key": "step.pilot.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "screw:carcassScrew",
+            "quantity": 8
+          },
+          {
+            "key": "glue",
+            "quantity": 2
+          }
+        ],
+        "highlightPartIds": [
+          "side:R"
+        ],
+        "index": 5,
+        "newPartIds": [
+          "side:R"
+        ],
+        "orientation": "on-back",
+        "phase": "P4",
+        "safety": [],
+        "title": {
+          "key": "step.sideRight.title"
+        },
+        "tools": [
+          "square",
+          "clamps",
+          "drill-driver",
+          "driver-bits",
+          "drill-bit:2.5"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.back.square",
+            "params": {
+              "toleranceMm": 2
+            }
+          },
+          {
+            "key": "step.back.nails"
+          }
+        ],
+        "camera": "iso-back",
+        "hardware": [
+          {
+            "key": "back:nail",
+            "quantity": 36
+          }
+        ],
+        "highlightPartIds": [
+          "back"
+        ],
+        "index": 6,
+        "newPartIds": [
+          "back"
+        ],
+        "orientation": "flat",
+        "phase": "P5",
+        "safety": [],
+        "title": {
+          "key": "step.back.title"
+        },
+        "tools": [
+          "tape-measure",
+          "square",
+          "hammer"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.plinth.body"
+          },
+          {
+            "key": "step.pilot.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "screw:plinthScrew",
+            "quantity": 8
+          },
+          {
+            "key": "plinth-bracket",
+            "quantity": 8
+          },
+          {
+            "key": "screw:plinthBracket",
+            "quantity": 32
+          },
+          {
+            "key": "glue",
+            "quantity": 4
+          }
+        ],
+        "highlightPartIds": [
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B"
+        ],
+        "index": 7,
+        "newPartIds": [
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B"
+        ],
+        "orientation": "on-back",
+        "phase": "P6",
+        "safety": [],
+        "title": {
+          "key": "step.plinth.title"
+        },
+        "tools": [
+          "square",
+          "clamps",
+          "drill-driver",
+          "driver-bits",
+          "drill-bit:2.5"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.standUp.body"
+          },
+          {
+            "key": "step.standUp.twoPeople"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [],
+        "highlightPartIds": [],
+        "index": 8,
+        "newPartIds": [],
+        "orientation": "upright",
+        "phase": "P7",
+        "safety": [
+          {
+            "key": "safety.lifting"
+          }
+        ],
+        "title": {
+          "key": "step.standUp.title"
+        },
+        "tools": [],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.interior.shelves",
+            "params": {
+              "count": 2
+            }
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "shelf-pin",
+            "quantity": 8
+          }
+        ],
+        "highlightPartIds": [
+          "adj:id-3:1",
+          "adj:id-3:2"
+        ],
+        "index": 9,
+        "newPartIds": [
+          "adj:id-3:1",
+          "adj:id-3:2"
+        ],
+        "orientation": "upright",
+        "phase": "P8",
+        "safety": [],
+        "title": {
+          "key": "step.interior.title"
+        },
+        "tools": [],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "adj:id-3:1",
+          "adj:id-3:2"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.doors.body"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "hinge:full",
+            "quantity": 4
+          },
+          {
+            "key": "hinge-screw",
+            "quantity": 16
+          }
+        ],
+        "highlightPartIds": [
+          "door:id-3:L",
+          "door:id-3:R"
+        ],
+        "index": 10,
+        "newPartIds": [
+          "door:id-3:L",
+          "door:id-3:R"
+        ],
+        "orientation": "upright",
+        "phase": "P9",
+        "safety": [],
+        "title": {
+          "key": "step.doors.title",
+          "params": {
+            "count": 2
+          }
+        },
+        "tools": [
+          "drill-driver",
+          "driver-bits",
+          "spirit-level"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "door:id-3:L",
+          "door:id-3:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.handles.body",
+            "params": {
+              "count": 2
+            }
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "handle:h-bar-128",
+            "quantity": 2
+          },
+          {
+            "key": "handle-screw:30",
+            "quantity": 4
+          }
+        ],
+        "highlightPartIds": [
+          "door:id-3:L",
+          "door:id-3:R"
+        ],
+        "index": 11,
+        "newPartIds": [],
+        "orientation": "upright",
+        "phase": "P11",
+        "safety": [],
+        "title": {
+          "key": "step.handles.title"
+        },
+        "tools": [
+          "driver-bits"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "door:id-3:L",
+          "door:id-3:R"
+        ]
+      },
+      {
+        "body": [
+          {
+            "key": "step.finish.anchor"
+          },
+          {
+            "key": "step.finish.check"
+          }
+        ],
+        "camera": "iso-front",
+        "hardware": [
+          {
+            "key": "wall-anchor",
+            "quantity": 1
+          }
+        ],
+        "highlightPartIds": [],
+        "index": 12,
+        "newPartIds": [],
+        "orientation": "upright",
+        "phase": "P12",
+        "safety": [
+          {
+            "key": "safety.wall-anchoring"
+          }
+        ],
+        "title": {
+          "key": "step.finish.title"
+        },
+        "tools": [
+          "tape-measure",
+          "drill-driver",
+          "spirit-level"
+        ],
+        "visiblePartIds": [
+          "side:L",
+          "top",
+          "bottom",
+          "side:R",
+          "back",
+          "plinth:L",
+          "plinth:R",
+          "plinth:F",
+          "plinth:B",
+          "adj:id-3:1",
+          "adj:id-3:2",
+          "door:id-3:L",
+          "door:id-3:R"
+        ]
+      }
+    ],
+    "tools": [
+      "tape-measure",
+      "square",
+      "pencil",
+      "clamps",
+      "saw",
+      "drill-driver",
+      "driver-bits",
+      "drill-bit:2.5",
+      "drill-bit:4.5",
+      "drill-bit:5",
+      "countersink-bit",
+      "forstner-35",
+      "depth-stop",
+      "edge-banding-iron",
+      "edge-trimmer",
+      "hammer",
+      "spirit-level",
+      "safety-glasses",
+      "hearing-protection",
+      "dust-mask"
+    ]
+  }
+}

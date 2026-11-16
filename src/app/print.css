@@ -1,0 +1,177 @@
+/* Print view (plan §6.5): screen preview plus A4 paged media. */
+.print-page {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.print-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.print-section {
+  margin-bottom: 2rem;
+}
+
+.print-cover {
+  text-align: center;
+}
+
+.print-title {
+  margin: 0.5rem 0 0;
+  font-size: 2rem;
+  overflow-wrap: anywhere;
+}
+
+.print-subtitle {
+  margin-top: 0.25rem;
+  color: var(--fg-muted);
+}
+
+.print-cover-image {
+  display: block;
+  width: 100%;
+  max-width: 40rem;
+  height: auto;
+  margin: 1rem auto;
+}
+
+.print-facts {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 0.25rem 1rem;
+  max-width: 30rem;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.print-facts dt {
+  font-weight: 600;
+}
+
+.print-facts dd {
+  margin: 0;
+}
+
+.print-footer {
+  margin-top: 0.75rem;
+  padding-top: 0.25rem;
+  border-top: 1px solid var(--border);
+  color: var(--fg-muted);
+  font-size: 0.8rem;
+  overflow-wrap: anywhere;
+}
+
+.print-document .data-table td,
+.print-document .data-table th {
+  overflow-wrap: anywhere;
+}
+
+.safety-notes {
+  margin: 1rem 0;
+}
+
+@page {
+  size: A4;
+  margin: 12mm;
+}
+
+@media print {
+  :root {
+    background: #ffffff;
+    font-size: 10pt;
+  }
+
+  .app-header,
+  .print-toolbar,
+  .no-print,
+  [data-testid='memory-banner'] {
+    display: none !important;
+  }
+
+  .print-page {
+    max-width: none;
+    padding: 0;
+  }
+
+  .print-section {
+    break-before: page;
+    margin: 0;
+  }
+
+  .print-cover {
+    break-before: auto;
+  }
+
+  .print-cover-image {
+    max-width: 150mm;
+  }
+
+  .data-table {
+    font-size: 8.5pt;
+  }
+
+  .data-table th,
+  .data-table td {
+    padding: 1mm 1.5mm;
+  }
+
+  .data-table tr {
+    break-inside: avoid;
+  }
+
+  .drilling-legend {
+    break-inside: avoid;
+  }
+
+  .drilling-plan-head {
+    break-inside: avoid;
+    break-after: avoid;
+  }
+
+  .drilling-face > h4,
+  .drilling-face > .drilling-svg {
+    break-inside: avoid;
+    break-after: avoid;
+  }
+
+  .drilling-svg {
+    max-height: 95mm;
+  }
+
+  .print-footer {
+    break-before: avoid;
+  }
+
+  .assembly-step {
+    break-inside: avoid;
+    margin: 0 0 4mm;
+  }
+
+  .step-layout {
+    grid-template-columns: 75mm minmax(0, 1fr);
+    gap: 4mm;
+  }
+
+  .step-figure img,
+  .step-placeholder {
+    max-height: 60mm;
+    object-fit: contain;
+  }
+
+  .assembly-phase > h3,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}

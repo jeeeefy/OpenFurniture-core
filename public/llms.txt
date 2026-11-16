@@ -1,0 +1,46 @@
+# Panel Furniture Designer
+
+> Free, local-first browser app for designing panel furniture in 3D and generating a complete build document: cut list, cutting layout, drilling plans, hardware list and step-by-step assembly instructions. No account, no server, no telemetry — designs stay on the user's device.
+
+- Canonical URL: https://free.openfurniture.de/
+- Languages: English and German
+- Price: free, no account required
+- Platform: any modern desktop browser (Chrome, Edge, Firefox; WebGL2 for the 3D view)
+- Imprint: https://free.openfurniture.de/#/imprint
+
+## What it does
+
+The app is a parametric design tool for cabinetmakers, woodworkers and DIY builders. The user picks a template or starts from a blank carcass, sets overall dimensions, plinth, columns, shelves, doors, drawers, handles, materials and hardware profiles, and edits the design in a live 3D preview. Validation errors block outputs; warnings link to the field that fixes them.
+
+## Templates
+
+- Bookcase: 800 × 2000 × 300 mm, two columns, fixed and adjustable shelves.
+- Cabinet: 800 × 900 × 450 mm, plinth, double door, two adjustable shelves.
+- Sideboard: 1600 × 800 × 450 mm, plinth, two doors and three drawers.
+- Chest of drawers: 800 × 1000 × 450 mm, plinth, four drawers.
+- Wardrobe: 1000 × 2200 × 600 mm, plinth, clothes rail, shelves, three doors.
+- Blank carcass: 600 × 720 × 400 mm, one empty section.
+
+## Outputs
+
+- Cut list with cut sizes, edge banding and area per material.
+- Cutting layout that places parts on as few boards as possible, with adjustable board size, saw kerf and edge trim.
+- Hardware list including spares.
+- Drilling plans to scale with hole tables.
+- Step-by-step assembly instructions with tools, safety callouts and 3D illustrations.
+- A4 print document with cover, safety notes, materials summary, cut list, hardware, tools, drilling plans and steps; can be saved as PDF.
+
+## Privacy and storage
+
+Everything runs in the browser. Designs are stored locally in the browser (IndexedDB), never uploaded. Designs can be exported and imported as `.furniture.json` files. There is no analytics or telemetry.
+
+## Limitations
+
+- Millimetres only; `.` and `,` both work as the decimal separator.
+- Desktop browsers only; Safari is best-effort and not verified.
+- Generated documents are a planning aid, not an engineering or safety approval. Verify dimensions, material strength, wall fixings and applicable safety rules before cutting or building.
+
+## Links
+
+- [Open the app](https://free.openfurniture.de/): start a new design or load a template.
+- [Imprint](https://free.openfurniture.de/#/imprint): provider contact details.
